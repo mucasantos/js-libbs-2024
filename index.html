@@ -1,11 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    
-</body>
+
+    <script>
+      /*
+        Isto é um comentário...
+        Projeto para as aulas do turma
+        */
+      //Também é um comentário
+      document.write("LIBBS 2024" + "<br>");
+
+      var nome;
+      var endereco = "Rua da minha casa";
+      var telefone = "11 91234-0099";
+      var studing;
+      const anoNascimento = 1977;
+
+      //Mostrar msg e pegar uma informação
+      nome = prompt("Qual o seu nome?");
+
+      studing = confirm("Está estudando no momento?");
+      console.log(typeof anoNascimento);
+      console.log(typeof telefone);
+
+      console.log(1 === "1");
+      if (studing) {
+        alert("Parabéns!!!");
+      } else {
+        alert("Vamos estudar...");
+      }
+
+      document.write(nome + "<br>");
+      document.write(endereco + "<br>");
+      document.write(telefone + "<br>");
+      document.write(anoNascimento + "<br>");
+
+      console.log("Estou aqui...");
+
+      //Mostrar uma mensagem
+      //   alert("Você chegou aqui...")
+    </script>
+  </head>
+  <body>
+    <p>Escrito no HTML</p>
+  </body>
 </html>
