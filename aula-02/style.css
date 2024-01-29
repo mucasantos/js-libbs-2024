@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Audiowide", sans-serif;
+
+}
+.cor {
+    color: blueviolet;
+}
+
+.container{
+    display: flex;
+}
+
+.card {
+    width: 300px;
+    background-color: rgb(231, 229, 227);
+    text-align: center;
+    margin: 10px;
+}
+img {
+    width: 80%;
+    padding: 20px;
+    
+}
+
+button {
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: rgb(8, 150, 103);
+    border: none;
+}
+
+h2, h3 {
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
