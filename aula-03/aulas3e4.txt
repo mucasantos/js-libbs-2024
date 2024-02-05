@@ -1,0 +1,4 @@
+O arquivo 001, estudar:
+getElementByTagName
+querySelectAll
+document.forms

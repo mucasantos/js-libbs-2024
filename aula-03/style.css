@@ -1,0 +1,29 @@
+header {
+    margin: 15px;
+    background-color: #d3d1d1;
+}
+
+section {
+    margin: 15px;
+    background-color: #EEEEEE;
+}
+
+div {
+    background-color: #DDFFDD;
+    margin: 15px;
+}
+
+p {
+    background-color: #DDFFDD;
+    margin: 15px;
+}
+
+p span {
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+footer {
+    margin: 15px;
+    background-color: #72807cab;
+}
