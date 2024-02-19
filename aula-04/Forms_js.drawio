@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T17:04:04.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gpTV0JQe1JeV_9Hf6js3" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T17:35:01.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5ZTEf1AHYqzPgWuWvVbr" version="23.1.5" type="github">
   <diagram name="Página-1" id="x6edmYXzKHLzqeNltHMa">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,26 @@
         <mxCell id="WiYF6nhUTwwvuCqYNSRV-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WiYF6nhUTwwvuCqYNSRV-2">
           <mxGeometry x="70" y="160" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WiYF6nhUTwwvuCqYNSRV-10" value="Endereço:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WiYF6nhUTwwvuCqYNSRV-2">
+          <mxGeometry y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiYF6nhUTwwvuCqYNSRV-11" value="Email:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WiYF6nhUTwwvuCqYNSRV-2">
+          <mxGeometry x="10" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiYF6nhUTwwvuCqYNSRV-12" value="Telefone:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WiYF6nhUTwwvuCqYNSRV-2">
+          <mxGeometry x="5" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiYF6nhUTwwvuCqYNSRV-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WiYF6nhUTwwvuCqYNSRV-2">
+          <mxGeometry x="70" y="210" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WiYF6nhUTwwvuCqYNSRV-14" value="Salvar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WiYF6nhUTwwvuCqYNSRV-2">
+          <mxGeometry x="150" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="WiYF6nhUTwwvuCqYNSRV-7" value="DataBase" style="whiteSpace=wrap;html=1;fontStyle=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="490" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WiYF6nhUTwwvuCqYNSRV-9" value="Nome:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="188" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
