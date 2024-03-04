@@ -1,0 +1,2 @@
+Crie um script que gere 15 números aleatórios, entre
+1 e 25 e esses números não podem ser repetidos.
