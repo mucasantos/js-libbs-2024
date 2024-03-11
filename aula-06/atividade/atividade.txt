@@ -1,0 +1,4 @@
+Criar, utilizando Javascript, 6 cards de forma
+dinâmica, utilizando: array de objetos, 
+forEach e createElement, conforme demonstrado 
+na aula.

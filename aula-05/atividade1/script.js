@@ -3,22 +3,18 @@ let maxNumbers = 25;
 let qtdGenerate = 15;
 
 document.getElementById("start").addEventListener('click', () => {
-
     //Função para gerar o número de 1 a 25
     function geraNum(max) {
         return Math.floor((Math.random()) * max) + 1;
     }
-
     function compareNumbers(a, b) {
         return a - b;
     }
-
     //Geração dos 15 números
     let finished = false;
     let numeros = [];
 
-
-    while (!finished) {
+   while (!finished) {
         const element = geraNum(maxNumbers);
 
         if (numeros.length < qtdGenerate) {
