@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    background-color: bisque;
+    border-radius: 25px;
+}
+
+img {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.names,
+.specie,
+.status {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.status {
+    background-color: rgb(191, 142, 237);
+    color: white;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+
+}
