@@ -5,14 +5,21 @@
 
 .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .card {
     background-color: bisque;
     border-radius: 25px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
 }
+.card:hover {
+    box-shadow: 0 8px 24px 0 rgba(0,0,0,0.2);
+  }
 
 img {
     border-top-left-radius: 25px;
@@ -33,6 +40,4 @@ img {
     color: white;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-
-
 }
